@@ -116,7 +116,8 @@ p {
 }
 
 .contact {
-    margin-top: 5%;
+    padding-top: 5%;
+    background-color: #f0f0f0;
 }
 .contact h3 {
     text-align: center;
@@ -175,4 +176,53 @@ p {
 #social img {
     width: 40px;
     padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.testimonial {
+    height: 550px;
+}
+.testimonial h2 {
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 48px;
+}
+
+.testimonial h3 {
+    font-size: 24;
+    font-weight: bold;
+    color: #363958;
+}
+
+.testimonial h5 {
+    text-align: right;
+}
+
+.reviews {
+    padding: 3% 7%;
+    width: 100%;
+}
+
+.sep30 {
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 20px;
+    background-color: white;
+
+    width: 25%;
+    float: left;
+    padding: 1%;
+    margin: 1%;
 }
