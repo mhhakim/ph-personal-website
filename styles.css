@@ -30,7 +30,7 @@ p {
 }
 
 .des {
-    padding-right: 50%;
+    padding-right: 40%;
     padding-bottom: 3%;
 }
 
@@ -39,7 +39,7 @@ p {
 }
 
 .intro {
-    height: 680px;
+    height: 600px;
 }
 
 .half-width {
@@ -52,8 +52,6 @@ p {
     margin-top: 20%;
 }
 
-#intro-img2 {}
-
 #intro-txt1 {
     width: 100%;
     margin-top: 15%;
@@ -63,7 +61,11 @@ p {
     width: 100%;
     margin-top: 15%;
 }
-
+#intro-txt2 h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    color: #363958;
+}
 .intro img {
     width: 80%;
 }
@@ -71,7 +73,7 @@ p {
 .work {
     margin-top: 38%;
     background-color: #f0f0f0;
-    height: 800px;
+    height: 900px;
 }
 
 .work h2 {
