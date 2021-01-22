@@ -39,7 +39,7 @@ p {
 }
 
 .intro {
-    height: 600px;
+    height: 550px;
 }
 
 .half-width {
@@ -73,7 +73,7 @@ p {
 .work {
     margin-top: 38%;
     background-color: #f0f0f0;
-    height: 900px;
+    height: 800px;
 }
 
 .work h2 {
@@ -89,12 +89,12 @@ p {
 }
 
 .works {
-    padding: 3% 7%;
+    padding: 1% 7%;
     width: 100%;
 }
 
 .sep30 {
-    box-shadow: 5px 5px 20px gray;
+    box-shadow: 0px 5px 20px rgb(212, 212, 212);
     border-radius: 20px;
     background-color: white;
 
@@ -112,20 +112,28 @@ p {
     text-decoration: none;
     color: #fff;
     background: linear-gradient(90deg, #FF8063, #F46060);
-    padding: 10px 20px;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.link-button img {
+    width: 16px;
+    padding: 0px 6px;
 }
 
 .contact {
     padding-top: 5%;
     background-color: #f0f0f0;
+    height: 500px;
 }
 .contact h3 {
     text-align: center;
     margin: 5% 0 1% 0;
     color: #696871;
-    font-size: 24;
+    font-size: 30;
     font-family: 'Bebas Neue', cursive;
-    font-weight: bold;
+    font-weight: 500;
 }
 .contact h2 {
     text-align: center;
@@ -156,6 +164,7 @@ p {
 #chat h1 {
     font-size: 64px;
     color: #fff;
+    font-weight: 500;
 
 }
 
@@ -212,11 +221,11 @@ p {
 }
 
 .reviews {
-    padding: 3% 7%;
+    padding: 1% 7%;
     width: 100%;
 }
 
-.sep30 {
+/* .sep30 {
     box-shadow: 5px 5px 20px gray;
     border-radius: 20px;
     background-color: white;
@@ -225,4 +234,4 @@ p {
     float: left;
     padding: 1%;
     margin: 1%;
-}
+} */
